@@ -13,31 +13,33 @@ CS50-SQL is a course offered by Harvard University, focusing on the fundamentals
 
 # Solutions
 - [Week 0 Problem Set](https://cs50.harvard.edu/sql/2024/psets/0/)
-  - [cyberchase]
-  - [normals]
-  - [players]
+  - [cyberchase](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_0/cyberchase)
+  - [normals](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_0/normals)
+  - [players](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_0/players)
 
 - [Week 1 Problem Set](https://cs50.harvard.edu/sql/2024/psets/1/)
-  - [Moneyball]
-  - [dese]
+  - [Moneyball](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_1/moneyball)
+  - [dese](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_1/dese)
+  - [packages](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_1/packages)
 
 - [Week 2 Problem Set](https://cs50.harvard.edu/sql/2024/psets/2/)
-  - [connect]
-  - [donuts]
+  - [connect](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_2/connect)
+  - [donuts](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_2/donuts)
 
 - [Week 3 Problem Set](https://cs50.harvard.edu/sql/2024/psets/3/)
-  - [dont-panic]
-  - [meteorites]
+  - [dont-panic](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_3/dont-panic)
+  - [meteorites](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_3/meteorites)
 
 - [Week 4 Problem Set](https://cs50.harvard.edu/sql/2024/psets/4/)
-  - [census]
-  - [private]
+  - [census](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_4/census)
+  - [private](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_4/private)
 
 - [Week 5 Problem Set](https://cs50.harvard.edu/sql/2024/psets/5/)
-  - [harvard]
+  - [harvard](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_5/harvard)
 
 - [Week 6 Problem Set](https://cs50.harvard.edu/sql/2024/psets/6/)
-  - [dont-panic-python]
-  - [sentimental-connect]
+  - [dont-panic-python](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_6/dont-panic-python)
+  - [sentimental-connect](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_6/sentimental-connect)
 
 - [Final Project](https://cs50.harvard.edu/sql/2024/project/)
+  - My Solution (https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Final_Project)
