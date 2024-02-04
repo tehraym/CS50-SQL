@@ -42,4 +42,4 @@ CS50-SQL is a course offered by Harvard University, focusing on the fundamentals
   - [sentimental-connect](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Week_6/sentimental-connect)
 
 - [Final Project](https://cs50.harvard.edu/sql/2024/project/)
-  - My Solution(https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Final_Project)
+  - [My Solution](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Final_Project)
