@@ -116,6 +116,7 @@ ON staff(name(225));
 
 
 --View for Most ordered sorted by Month/year
+SELECT YEAR(o_s.time_stamp) AS `Year`,
 		MONTH(o_s.time_stamp) AS `Month`,
            m.item_name AS 'Most Ordered items',
            COUNT(o_s.item_id) AS 'Amount Ordered'
