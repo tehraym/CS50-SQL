@@ -43,3 +43,4 @@ CS50-SQL is a course offered by Harvard University, focusing on the fundamentals
 
 - [Final Project](https://cs50.harvard.edu/sql/2024/project/)
   - [My Solution](https://github.com/tehraym/CS50-SQL/tree/5a2b681cde491647af16d22f8ab4be6e3a78c50b/Final_Project)
+  ![alt text](<Final_Project/CS50 SQL ER Diagram.png>)

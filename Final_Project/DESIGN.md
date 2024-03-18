@@ -150,10 +150,9 @@ The `transaction` table includes the following
 
 ### Relationships
 
-Will be explaining the Foreign Keys for each tables
-![ER Diagram](<CS50 SQL ER Diagram.png>)
-
 As detailed in the diagram
+![alt text](<CS50 SQL ER Diagram.png>)
+
 
 ### customers table
 * One and only one customer table can only be in one outlet at a time
