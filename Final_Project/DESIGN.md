@@ -151,7 +151,7 @@ The `transaction` table includes the following
 ### Relationships
 
 As detailed in the diagram
-![alt text](<CS50 SQL ER Diagram.png>)
+[diagram](DESIGN.md)
 
 
 ### customers table
